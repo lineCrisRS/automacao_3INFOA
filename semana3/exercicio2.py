@@ -10,3 +10,9 @@ for a figura abaixo:
 ******
 termina com 10 * na última linha
 '''
+
+#For crescente
+
+for i in range('*','*'):
+    print(i, "repetições")
+

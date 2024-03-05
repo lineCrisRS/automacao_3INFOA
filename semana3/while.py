@@ -14,6 +14,8 @@ while i < 10:
     i = i + 1
 
 print("Exemplo 2: ===========")
+
+
 nomes = [] #cria uma lista vazia (sem nomes)
 while True: #repete para sempre
     nome = input("Digite o nome: ")
